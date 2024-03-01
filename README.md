@@ -1,5 +1,4 @@
 # Fashion-mnist-keras-Using-neural-networks
-# Fashion MNIST using Neural Networks
 
 This repository contains code to classify Fashion MNIST dataset using neural networks implemented in Keras.
 
